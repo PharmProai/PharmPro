@@ -1,3 +1,3 @@
 # PharmPro
 The exe version of PharmPro  
-The Web version:https://pharmpro.pzzl.top
+The Web version: https://pharmpro.pzzl.top
